@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(116, 196, 190);
+}
+.pin2{
+    display: flex;
+    gap: 195px;
+}
+.pin3{
+    display: flex;
+    gap: 20px;
+}
+.fast{
+    height: 40px;
+    width: 265px;
+    border-radius: 7px;
+}
+.pin1{
+    background-color: aliceblue;
+    padding-left: 40px;
+    width: 600px;
+    border-radius: 10px;
+    height: 650px;
+    padding-top: 10px;
+}
+.beta1{
+    border:1px solid black;
+    height: 40px;
+    width: 265px;
+    border-radius: 7px;
+    text-align: center;
+    padding-top: 4px;
+   
+}
+.beta2{
+    border:1px solid black;
+    height: 40px;
+    width: 265px;
+    border-radius: 7px;
+    text-align: center;
+    padding-top: 4px;
+}
+.button{
+    height: 40px;
+    width: 550px;
+    border-radius: 7px;
+    background-color:rgb(1,121, 111);
+    color:white;
+}
+.text{
+    height: 95px;
+    width: 545px;
+    border-radius: 7px;
+    
+}
+.mail{
+    width: 545px;
+    height: 40px;
+    border-radius: 7px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
